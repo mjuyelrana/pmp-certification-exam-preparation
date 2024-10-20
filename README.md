@@ -44,3 +44,6 @@ Total 230 minutes, not including breaks, 75secs per question
 - [PMBOK Guide](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok)
 - [PMP Exam Prep Books](https://www.pmi.org/certifications/project-management-pmp/earn-the-pmp/pmp-exam-preparation)
 
+# The course outline
+1. PMI PMP exam details [Details](/PMI-PMP-Exam-details.md)
+2. Project Management Terms [Details](/project-management-terms.md)
