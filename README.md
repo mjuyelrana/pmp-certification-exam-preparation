@@ -47,3 +47,4 @@ Total 230 minutes, not including breaks, 75secs per question
 # The course outline
 1. PMI PMP exam details [Details](/PMI-PMP-Exam-details.md)
 2. Project Management Terms [Details](/project-management-terms.md)
+3. Project Management Principle [Details](/project-management-principle.md)
